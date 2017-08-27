@@ -38,6 +38,5 @@ object Barcodes extends Controller {
 
     output.toByteArray
   }
-
 }
 
